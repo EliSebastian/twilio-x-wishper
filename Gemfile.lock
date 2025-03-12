@@ -317,7 +317,7 @@ GEM
     thruster (0.1.11-x86_64-darwin)
     thruster (0.1.11-x86_64-linux)
     timeout (0.4.3)
-    twilio-ruby (7.4.5)
+    twilio-ruby (7.5.0)
       benchmark
       faraday (>= 0.9, < 3.0)
       jwt (>= 1.5, < 3.0)
@@ -328,7 +328,7 @@ GEM
     unicode-display_width (3.1.4)
       unicode-emoji (~> 4.0, >= 4.0.4)
     unicode-emoji (4.0.4)
-    uri (1.0.2)
+    uri (1.0.3)
     useragent (0.16.11)
     websocket-driver (0.7.7)
       base64
